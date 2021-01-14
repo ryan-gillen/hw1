@@ -1,0 +1,1 @@
+This is a simple website for a business who writes reviews on routers. 
